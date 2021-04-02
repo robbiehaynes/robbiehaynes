@@ -30,7 +30,7 @@
 <br />
 
 ### GitHub Statistics
-[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&show_icons=true&hide_borders=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
