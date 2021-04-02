@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<img align="left" alt="Rob's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=robbiehaynes&show_icons=true&hide_border=true" />
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
