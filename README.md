@@ -32,13 +32,13 @@
 
 ---
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&count_private=true&show_icons=true&hide_border=true)][github]
 
 ---
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact)][website]
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
