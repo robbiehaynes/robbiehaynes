@@ -32,11 +32,7 @@
 
 ---
 
-<br />
-
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 ---
 
