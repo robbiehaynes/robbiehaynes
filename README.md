@@ -29,12 +29,11 @@
 <br />
 <br />
 
-### GitHub Statistics
-[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
 [devwebsite]: https://dev.robbiehaynes.co.za
 [photography]: https://photos.robbiehaynes.co.za
 [github]: https://www.github.com/robbiehaynes
-[linkedin] https://www.linkedin.com/in/roberthaynesza/
+[linkedin]: https://www.linkedin.com/in/roberthaynesza/
