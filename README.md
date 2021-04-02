@@ -36,7 +36,7 @@
 
 <br />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact)][website]
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
