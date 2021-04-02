@@ -1,6 +1,6 @@
 ### Hi! My name is Rob, check out my [website] 👋
 
-### I'm a student with a passion for development!
+### I'm a Student with a passion for Software Development!
 - 😊 I'm currently working on Machine Learning in Python
 - 📚 I'm studying Computer Science at the University of Cape Town
 - 💎 I'm always willing to contribute to the Github community
@@ -10,6 +10,7 @@
 ### Connect with me:
 [<img align="left" alt="robbiehaynes.co.za" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="instagram.com/robbiehaynes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="robbiehaynes | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -25,8 +26,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
+### GitHub Statistics
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiehaynes&show_icons=true&hide_borders=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
 [devwebsite]: https://dev.robbiehaynes.co.za
 [photography]: https://photos.robbiehaynes.co.za
 [github]: https://www.github.com/robbiehaynes
+[linkedin] https://www.linkedin.com/in/roberthaynesza/
