@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I'm aquiring a love for cooking
 
 ### Connect with me:
-[<img align="left" alt="robbiehaynes.co.za" width="22px" src="https://raw.githubcontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="robbiehaynes.co.za" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 
 [website]: https://www.robbiehaynes.co.za
