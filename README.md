@@ -1,20 +1,12 @@
-### Hi! My name is Rob, check out my [website] 👋
+### Hi! 
+### My name is Rob, check out my [website] 👋
 
 ### I'm a Student with a passion for Software Development!
 - 😊 I'm currently working on Machine Learning in Python
-- 📚 I'm studying Computer Science at the University of Cape Town
+- 📚 I'm studying Computer Science at the University of Manchester
 - 💎 I'm always willing to contribute to the Github community
-- 🔥 2021 Goals: Launch my first personal iOS app roject
+- 🔥 2022 Goals: Launch my first personal iOS app project
 - ⚡ Fun fact: I do [photography] as well!
-
-### Connect with me:
-[<img align="left" alt="robbiehaynes.co.za" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="instagram.com/robbiehaynes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="robbiehaynes | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
 
 ### 🔨 Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][devwebsite]
@@ -33,11 +25,13 @@
 
 ---
 
-<img align="left" alt="Rob's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=robbiehaynes&show_icons=true&hide_border=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=robbiehaynes&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact&hide_border=true"/>
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact&hide_border=true)][website]
+### Connect with me:
+[<img align="left" alt="robbiehaynes.co.za" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="instagram.com/robbiehaynes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="robbiehaynes | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
