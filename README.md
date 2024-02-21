@@ -35,7 +35,7 @@
 
 [website]: https://www.robbiehaynes.co.za
 [instagram]: https://www.instagram.com/robbiehaynes
-[devwebsite]: https://dev.robbiehaynes.co.za
+[devwebsite]: https://www.robbiehaynes.com
 [photography]: https://photos.robbiehaynes.co.za
 [github]: https://www.github.com/robbiehaynes
 [linkedin]: https://www.linkedin.com/in/roberthaynesza/
