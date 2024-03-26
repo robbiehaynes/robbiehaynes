@@ -6,7 +6,7 @@
 - 📚 I'm studying Computer Science at the University of Manchester
 - 💎 I'm always willing to contribute to the Github community
 - 🔥 2024 Goals: Redevelop personal portfolio website
-- ⚡ Fun fact: I do [photography] as well!
+- ⚡ Fun fact: I do photography as well!
 
 ### 🔨 Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][devwebsite]
@@ -29,13 +29,12 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbiehaynes&layout=compact&hide_border=true"/>
 
 ### Connect with me:
-[<img align="left" alt="robbiehaynes.co.za" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="robbiehaynes.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="instagram.com/robbiehaynes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="robbiehaynes | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://www.robbiehaynes.co.za
+[website]: https://www.robbiehaynes.com
 [instagram]: https://www.instagram.com/robbiehaynes
 [devwebsite]: https://www.robbiehaynes.com
-[photography]: https://photos.robbiehaynes.co.za
 [github]: https://www.github.com/robbiehaynes
 [linkedin]: https://www.linkedin.com/in/roberthaynesza/
