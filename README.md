@@ -33,8 +33,8 @@
 [<img align="left" alt="instagram.com/robbiehaynes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="robbiehaynes | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://www.robbiehaynes.com
+[website]: https://www.haynoway.com
 [instagram]: https://www.instagram.com/robbiehaynes
-[devwebsite]: https://www.robbiehaynes.com
+[devwebsite]: https://www.haynoway.com
 [github]: https://www.github.com/robbiehaynes
 [linkedin]: https://www.linkedin.com/in/roberthaynesza/
