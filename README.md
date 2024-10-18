@@ -2,10 +2,10 @@
 ### My name is Rob, check out my [website] 👋
 
 ### I'm a Student with a passion for Software Development!
-- 😊 I'm currently working on my portfolio website
+- 😊 I'm currently working on the Complete Swift Bootcamp by @angelabauer
 - 📚 I'm studying Computer Science at the University of Manchester
 - 💎 I'm always willing to contribute to the Github community
-- 🔥 2024 Goals: Redevelop personal portfolio website
+- 🔥 2024 Goals: Redevelop personal portfolio website (COMPLETE)
 - ⚡ Fun fact: I do photography as well!
 
 ### 🔨 Languages and Tools:
