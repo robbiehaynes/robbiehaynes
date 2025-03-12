@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=robbiehaynes&icon=0&color=3)](https://visitcount.itsvg.in)<br>
-👋 Check out my [website]<br>
+👋 Check out my [website] and [credentials]<br>
 😊 I'm currently working on the Complete Swift Bootcamp by @angelabauer<br>
 📚 I'm studying Computer Science at the University of Manchester<br>
 💎 I'm always willing to contribute to the Github community<br>
@@ -24,3 +24,4 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robbiehaynes) 
 
 [website]: https://www.haynoway.com
+[credentials]: https://www.credly.com/users/robbiehaynes
